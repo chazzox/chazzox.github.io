@@ -1,1 +1,0 @@
-{"version":3,"sources":["webpack:///./src/pages/404.js"],"names":["Home"],"mappings":"2FAAA,wEAEe,SAASA,IACvB,OAAO","file":"component---src-pages-404-js-b2e209da7da5d13d3c81.js","sourcesContent":["import React from 'react'\r\n\r\nexport default function Home() {\r\n\treturn <div>404!</div>\r\n}\r\n"],"sourceRoot":""}

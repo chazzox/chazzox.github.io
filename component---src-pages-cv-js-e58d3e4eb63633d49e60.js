@@ -1,2 +1,0 @@
-(window.webpackJsonp=window.webpackJsonp||[]).push([[4],{"4ngj":function(n,t,e){"use strict";e.r(t),e.d(t,"default",(function(){return r}));var i=e("q1tI"),o=e.n(i);function r(){return o.a.createElement("div",null,"I decided to take this site down, sorry")}}}]);
-//# sourceMappingURL=component---src-pages-cv-js-e58d3e4eb63633d49e60.js.map
