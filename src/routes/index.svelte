@@ -122,7 +122,10 @@
 		height: 100%;
 		z-index: -999;
 	}
-
+	.center {
+		justify-content: center;
+		align-items: center;
+	}
 	.container {
 		max-width: 900px;
 		background-color: #f7eaea;
