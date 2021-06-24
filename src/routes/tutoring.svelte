@@ -2,7 +2,9 @@
 	import Footer from '../components/Footer.svelte';
 </script>
 
-<svelte:head><title>Tutoring</title></svelte:head>
+<svelte:head>
+	<title>Tutoring</title>
+</svelte:head>
 
 <div class="app">
 	<div class="center">
